@@ -5,7 +5,8 @@ Just completed a simple yet effective online bookstore project! It includes key 
 
 💻 Technologies used: PHP, MySQL, Bootstrap  
 🔧 It’s a great example of how we can combine database interactions and session handling in web development.
-![Screenshot (451)](https://github.com/user-attachments/assets/ca7d7d0f-fc2e-40f6-9fc4-63cfcafd20af)
+
+![Screenshot (451)](https://github.com/user-attachments/assets/ff562512-069b-42c5-ab3e-1c4ffcef8df5)
 
   
 #WebDevelopment #PHP #MySQL #ECommerce #OnlineStore #Coding #DeveloperJourney
